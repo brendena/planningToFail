@@ -1,4 +1,4 @@
-A app that will help you create schedules and share schedules to your friends and family.
+A app that will help you create schedules and share them with your friends and family.
 
 
 wireframe
